@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "slug": "luxury-sea-view-apartment-mumbai",
+    "title": "Luxury Sea View Apartment",
+    "location": "Bandra West, Mumbai",
+    "city": "mumbai",
+    "price": "₹2.5 Cr",
+    "priceValue": 25000000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": "1,250 sq ft",
+    "areaValue": 1250,
+    "description": "Stunning 3BHK apartment with panoramic sea views, premium amenities, and prime location in Bandra West.",
+    "featured": true,
+    "tags": ["Sea View", "Premium", "New Launch"],
+    "rating": 4.9,
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&h=600&fit=crop"
+    ],
+    "amenities": ["Swimming Pool", "Gym", "Security", "Parking", "Garden", "Clubhouse"],
+    "nearbyPlaces": ["Bandra Station - 0.5 km", "Linking Road - 0.8 km", "Carter Road - 1.2 km"],
+    "agent": {
+      "name": "Rajesh Sharma",
+      "phone": "+91 98765 43210",
+      "email": "rajesh@boldestate.com",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face"
+    },
+    "virtualTour": "https://example.com/virtual-tour-1"
+  },
+  {
+    "id": 2,
+    "slug": "modern-villa-pune-hills",
+    "title": "Modern Villa in Pune Hills",
+    "location": "Lavale, Pune",
+    "city": "pune",
+    "price": "₹1.8 Cr",
+    "priceValue": 18000000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": "2,100 sq ft",
+    "areaValue": 2100,
+    "description": "Contemporary villa with mountain views, private garden, and modern amenities in the serene hills of Pune.",
+    "featured": true,
+    "tags": ["Mountain View", "Villa", "Private Garden"],
+    "rating": 4.7,
+    "images": [
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop"
+    ],
+    "amenities": ["Private Garden", "Mountain View", "Security", "Parking", "Modern Kitchen"],
+    "nearbyPlaces": ["Lavale Market - 2 km", "Pune-Mumbai Highway - 5 km", "Schools - 3 km"],
+    "agent": {
+      "name": "Priya Patel",
+      "phone": "+91 98765 43211",
+      "email": "priya@boldestate.com",
+      "image": "https://images.unsplash.com/photo-1494790108755-2616b612b1f1?w=150&h=150&fit=crop&crop=face"
+    },
+    "virtualTour": "https://example.com/virtual-tour-2"
+  },
+  {
+    "id": 3,
+    "slug": "beachfront-villa-goa",
+    "title": "Beachfront Villa Goa",
+    "location": "Calangute, Goa",
+    "city": "goa",
+    "price": "₹3.2 Cr",
+    "priceValue": 32000000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": "3,500 sq ft",
+    "areaValue": 3500,
+    "description": "Exclusive beachfront villa with direct beach access, infinity pool, and luxury amenities.",
+    "featured": true,
+    "tags": ["Beachfront", "Luxury", "Pool"],
+    "rating": 4.8,
+    "images": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607688960-e095ff1d3186?w=800&h=600&fit=crop"
+    ],
+    "amenities": ["Beach Access", "Infinity Pool", "Garden", "Security", "Parking", "BBQ Area"],
+    "nearbyPlaces": ["Calangute Beach - 0 km", "Baga Beach - 2 km", "Anjuna Market - 5 km"],
+    "agent": {
+      "name": "Carlos Fernandes",
+      "phone": "+91 98765 43212",
+      "email": "carlos@boldestate.com",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face"
+    },
+    "virtualTour": "https://example.com/virtual-tour-3"
+  },
+  {
+    "id": 4,
+    "slug": "premium-penthouse-mumbai-bkc",
+    "title": "Premium Penthouse BKC",
+    "location": "Bandra Kurla Complex, Mumbai",
+    "city": "mumbai",
+    "price": "₹4.5 Cr",
+    "priceValue": 45000000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": "2,800 sq ft",
+    "areaValue": 2800,
+    "description": "Ultra-luxury penthouse in Mumbai's business district with city skyline views and premium finishes.",
+    "featured": false,
+    "tags": ["Penthouse", "Business District", "City View"],
+    "rating": 4.9,
+    "images": [
+      "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&h=600&fit=crop"
+    ],
+    "amenities": ["City View", "Premium Finishes", "Gym", "Security", "Valet Parking", "Concierge"],
+    "nearbyPlaces": ["BKC Metro - 0.3 km", "Kurla Station - 1 km", "Corporate Offices - 0.5 km"],
+    "agent": {
+      "name": "Anita Kulkarni",
+      "phone": "+91 98765 43213",
+      "email": "anita@boldestate.com",
+      "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&h=150&fit=crop&crop=face"
+    },
+    "virtualTour": "https://example.com/virtual-tour-4"
+  },
+  {
+    "id": 5,
+    "slug": "eco-friendly-home-pune",
+    "title": "Eco-Friendly Smart Home",
+    "location": "Kharadi, Pune",
+    "city": "pune",
+    "price": "₹1.2 Cr",
+    "priceValue": 12000000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": "1,400 sq ft",
+    "areaValue": 1400,
+    "description": "Sustainable smart home with solar panels, rainwater harvesting, and smart home automation.",
+    "featured": true,
+    "tags": ["Eco-Friendly", "Smart Home", "Solar"],
+    "rating": 4.6,
+    "images": [
+      "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop"
+    ],
+    "amenities": ["Solar Panels", "Smart Home", "Garden", "Security", "Parking", "Water Harvesting"],
+    "nearbyPlaces": ["Kharadi IT Park - 1 km", "Phoenix Mall - 2 km", "EON IT Park - 1.5 km"],
+    "agent": {
+      "name": "Vikram Singh",
+      "phone": "+91 98765 43214",
+      "email": "vikram@boldestate.com",
+      "image": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=150&h=150&fit=crop&crop=face"
+    },
+    "virtualTour": "https://example.com/virtual-tour-5"
+  },
+  {
+    "id": 6,
+    "slug": "heritage-bungalow-goa",
+    "title": "Heritage Portuguese Bungalow",
+    "location": "Fontainhas, Goa",
+    "city": "goa",
+    "price": "₹2.8 Cr",
+    "priceValue": 28000000,
+    "bedrooms": 6,
+    "bathrooms": 4,
+    "area": "4,200 sq ft",
+    "areaValue": 4200,
+    "description": "Restored Portuguese colonial bungalow with period features, courtyard, and authentic architecture.",
+    "featured": false,
+    "tags": ["Heritage", "Colonial", "Courtyard"],
+    "rating": 4.7,
+    "images": [
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&h=600&fit=crop"
+    ],
+    "amenities": ["Heritage Architecture", "Courtyard", "Garden", "Parking", "Period Features"],
+    "nearbyPlaces": ["Panaji City - 1 km", "Mandovi River - 0.5 km", "Heritage Walks - 0.2 km"],
+    "agent": {
+      "name": "Maria D'Souza",
+      "phone": "+91 98765 43215",
+      "email": "maria@boldestate.com",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face"
+    },
+    "virtualTour": "https://example.com/virtual-tour-6"
+  },
+  {
+    "id": 7,
+    "slug": "luxury-apartment-mumbai-worli",
+    "title": "Luxury High-Rise Worli",
+    "location": "Worli, Mumbai",
+    "city": "mumbai",
+    "price": "₹3.8 Cr",
+    "priceValue": 38000000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": "1,800 sq ft",
+    "areaValue": 1800,
+    "description": "Premium apartment in iconic Worli tower with world-class amenities and stunning views.",
+    "featured": true,
+    "tags": ["High-Rise", "Premium", "Iconic"],
+    "rating": 4.8,
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&h=600&fit=crop"
+    ],
+    "amenities": ["World-Class Amenities", "Sky Lounge", "Gym", "Security", "Valet", "Concierge"],
+    "nearbyPlaces": ["Worli Sea Face - 0.3 km", "Lower Parel - 2 km", "BKC - 3 km"],
+    "agent": {
+      "name": "Deepak Mehta",
+      "phone": "+91 98765 43216",
+      "email": "deepak@boldestate.com",
+      "image": "https://images.unsplash.com/photo-1566492031773-4f4e44671d66?w=150&h=150&fit=crop&crop=face"
+    },
+    "virtualTour": "https://example.com/virtual-tour-7"
+  },
+  {
+    "id": 8,
+    "slug": "garden-villa-pune-koregaon",
+    "title": "Garden Villa Koregaon Park",
+    "location": "Koregaon Park, Pune",
+    "city": "pune",
+    "price": "₹2.2 Cr",
+    "priceValue": 22000000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": "2,500 sq ft",
+    "areaValue": 2500,
+    "description": "Spacious villa with landscaped gardens in Pune's most coveted neighborhood.",
+    "featured": false,
+    "tags": ["Garden Villa", "Prime Location", "Spacious"],
+    "rating": 4.7,
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop"
+    ],
+    "amenities": ["Landscaped Garden", "Premium Location", "Security", "Parking", "Modern Kitchen"],
+    "nearbyPlaces": ["Osho Ashram - 1 km", "German Bakery - 0.5 km", "ABC Farms - 2 km"],
+    "agent": {
+      "name": "Sunita Joshi",
+      "phone": "+91 98765 43217",
+      "email": "sunita@boldestate.com",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face"
+    },
+    "virtualTour": "https://example.com/virtual-tour-8"
+  }
+] 
