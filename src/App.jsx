@@ -3,6 +3,7 @@ import { Routes, Route, useLocation } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
+import ModernChatButton from './components/ModernChatButton';
 import Home from './pages/Home';
 import Listings from './pages/Listings';
 import PropertyDetail from './pages/PropertyDetail';
@@ -37,6 +38,7 @@ function App() {
         </Routes>
       </AnimatePresence>
       <Footer />
+      <ModernChatButton />
     </div>
   );
 }
